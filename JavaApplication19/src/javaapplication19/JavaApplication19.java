@@ -3,20 +3,19 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package ejemplo02;
+package javaapplication19;
 
 /**
  *
- * @author reroes
+ * @author USUARIO
  */
-public class Ejemplo02 {
+public class JavaApplication19 {
 
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Hola Mundo");
-        
+        // TODO code application logic here
     }
     
 }
